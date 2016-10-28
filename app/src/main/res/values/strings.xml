@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ListenersInAndroid</string>
+    <string name="hint">Enter your text</string>
+</resources>
